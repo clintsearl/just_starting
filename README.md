@@ -1,2 +1,2 @@
 # just_starting
-Practice the files and git
+Practice files and git
